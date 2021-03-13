@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ~/
+
 gcloud services enable \
     container.googleapis.com \
     compute.googleapis.com \
